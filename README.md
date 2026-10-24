@@ -8,7 +8,7 @@ Bienvenido al repositorio oficial del sistema de control y automatización de **
 
 Los momentos más bellos de la vida pasan volando, pero el sentido del olfato tiene el poder mágico de traernos de vuelta. 
 
-En **Melia** no elaboramos solo velas; creamos **detalles de memoria olfativa** diseñados para que cada persona viaje a su día más feliz. Transformamos la cera de soya y las fragancias artesanales en experiencias sensoriales únicas, creadas para acompañar y perpetuar los hitos más significativos de nuestros clientes.
+En **Melia** no elaboramos solo velas; creamos **detalles de memoria olfativa** diseñados para que cada persona viaje a su día más feliz. Transformamos la cera de soya y las fragancias artesanales en experiencias sensoriales únicas, creadas para acompañar y perpetuar los momentos más significativos de nuestros clientes.
 
 ---
 
