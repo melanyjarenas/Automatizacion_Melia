@@ -8,13 +8,13 @@ Este módulo agrupa los scripts encargados de recepcionar, validar y procesar la
 
 ### Archivos en este módulo:
 
-**control_pedidos.py**: Bucle interactivo para registro de nombres de clientes con condición de salida.
+**`control_pedidos.py`**: Bucle interactivo para registro de nombres de clientes con condición de salida.
 
-**sistema_de_pedidos.py**: Lógica de captura y procesamiento de órdenes.
+**`sistema_de_pedidos.py`**: Lógica de captura y procesamiento de órdenes.
 
-**descuentos_melia.py**: Cálculo de promociones aplicadas a los pedidos.
+**`descuentos_melia.py`**: Cálculo de promociones aplicadas a los pedidos.
 
-**empaque_melia.py**: Validación de especificaciones de empaque y presentación.
+**`empaque_melia.py`**: Validación de especificaciones de empaque y presentación.
 
 ---
 *Desarrollado en Python enfocado en arquitectura e ingeniería de datos.*
