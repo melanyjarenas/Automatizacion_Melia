@@ -33,4 +33,4 @@ El proyecto está organizado en módulos independientes y escalables:
 * **Entorno de desarrollo:** VS Code & GitHub
 
 ---
-*Desarrollado con propósito por Yulis Melany | Bogotá, Colombia*
+*Desarrollado con propósito por Melany y Yulis | Medellín, Colombia*
